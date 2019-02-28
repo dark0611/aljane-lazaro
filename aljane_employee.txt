@@ -1,0 +1,28 @@
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Jonie" , "Weber" , "Secretary" , 28 , "19500.00" , Now());
+
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Potsy" , "Weber" , "Programmer" , 32 , "45300.00" , Now());
+
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Dirk" , "Weber" , "Programmer" , 45 , "75020.00" , Now());
+
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Al_Jane" , "Lazaro" , "Nurse" , 25 , "50500.00" , Now());
+
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Manilyn" , "Recto" , "Teacher" , 26 , "20500.00" , Now());
+
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Grenalyn" , "Dizon" , "Vendor" , 28 , "5000.00" , Now());
+
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Bernadette" , "Ordonez" , "Make_up_artist" , 24 , "20750.00" , Now());
+
+INSERT INTO `tbl_new_employees`(`employee_id`, `firstname`, `lastname`, `title`, `age`, `salary`, `date_time_created`) VALUES ("NULL" , "Alma" , "Marin" , "Factory_worker" , 36 , "15450.00" , Now());
+
+
+
+
+
+
+
+
+
+
+
+
+
